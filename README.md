@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my friend 👋 I'm Victor Barros!
 
 <!--
 **vthbarros/vthbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a self-taught Brazilian data science student who is learning through courses, books, YouTube videos and documentation
+- I'm currently learning **statistics** and **spreadsheets**, such as Excel and Google Sheets
+
+<div>
+  <a href="https://github.com/Vthbarros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vthbarros&icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=vthbarros&layout=compact&langs_count=5&theme=github_dark"/>
+</div>
