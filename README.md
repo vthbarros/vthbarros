@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/Vthbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vthbarros&icons=true&theme=github_dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=vthbarros&layout=compact&langs_count=5&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthbarros&langs_count=8&layout=compact&theme=github_dark"/>
 </div>
