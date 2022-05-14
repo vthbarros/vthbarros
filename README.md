@@ -28,6 +28,6 @@ I'm a self-taught Brazilian data science student who is learning through courses
   
 ##
   
-<div>
+<!--<div>
   <a href="https://www.linkedin.com/in/victor-hugo-barros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+</div>-->
