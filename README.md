@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a self-taught Brazilian data science and developement student who is learning through courses, books, YouTube videos and documentation.
 
 <div>
   <a href="https://github.com/Vthbarros">
