@@ -1,4 +1,4 @@
-### Oi 👋 Meu nome é Victor! Este é o local onde você encontrará meus códigos e arquivos referentes aos meus estudos e projetos.
+### Oi 👋 Meu nome é Victor! Este é o local onde você encontrará meus códigos e arquivos referentes aos meus estudos e projetos na área de dados.
 
 <!--
 **vthbarros/vthbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
