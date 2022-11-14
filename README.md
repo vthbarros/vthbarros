@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Oi 👋 Meu nome é Victor! Este é o local onde você encontrará meus códigos e arquivos referentes aos meus estudos e projetos na área de dados.
 
 <!--
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
   
 <!--##-->
   
-<!--<div>
+<div>
   <a href="https://www.linkedin.com/in/victor-hugo-barros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>-->
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="victor-hugo-barros" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victor-hugo-barros/en?trk=profile-badge">Victor Barros</a></div>
+</div>
