@@ -1,5 +1,8 @@
-### Oi 👋 Meu nome é Victor! Este é o local onde você encontrará meus códigos e arquivos referentes aos meus estudos e projetos na área de dados.
+### Hi 👋 My name's Victor! Here's the place where you'll find my codes and files regarding my studies and projects in the data area.
 
+🐱‍👤 I'm 21 years old and I'm from Brazil. 
+<br>
+🌱 I'm currently learning MySQL on Udemy courses and PostgreSQL in college.
 <!--
 **vthbarros/vthbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
